@@ -14,3 +14,16 @@ rostopic echo raw/joint_states
 ```
 And selecting an appropriate minimum and maximum value.
 The file cyberglove.cal should then be edited, inserting the new raw values taken from the joint_states topic, to coincide with the calibrated minimum and maximum values of that joint, in degrees. 
+
+## Branch naming convention
+
+There are 2 CyberGloves. Glove A has a large control box. Glove B has a small control box.
+There are 3 main users of the CyberGlove. The CyberGlove configuration is glove and user's hand specific.
+Therefore, the following branches exist:
+
+A-dan
+A-penny
+A-anastasios
+B-dan
+B-penny
+B-anastasios
