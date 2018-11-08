@@ -21,9 +21,10 @@ There are 2 CyberGloves. Glove A has a large control box. Glove B has a small co
 There are 3 main users of the CyberGlove. The CyberGlove configuration is glove and user's hand specific.
 Therefore, the following branches exist:
 
-A-dan
-A-penny
-A-anastasios
-B-dan
-B-penny
-B-anastasios
+* A-dan
+* A-penny
+* A-anastasios
+
+* B-dan
+* B-penny
+* B-anastasios
