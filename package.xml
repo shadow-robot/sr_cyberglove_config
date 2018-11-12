@@ -8,11 +8,11 @@
 
   <url type="website">http://ros.org/wiki/sr_cyberglove_config</url>
   <url type="website">http://www.shadowrobot.com/products/dexterous-hand/</url>
-  <url type="repository">https://github.com/shadow-robot/sr-cyberglove-config</url>
-  <url type="bugtracker">https://github.com/shadow-robot/sr-cyberglove-config/issues</url>
+  <url type="repository">https://github.com/shadow-robot/sr_cyberglove_config</url>
+  <url type="bugtracker">https://github.com/shadow-robot/sr_cyberglove_config/issues</url>
 
-  <author>Ugo Cupcic</author>
   <author>Toni Oliver</author>
+  <author>Ugo Cupcic</author>
 
   <!-- Dependencies which this package needs to build itself. -->
   <buildtool_depend>catkin</buildtool_depend>
