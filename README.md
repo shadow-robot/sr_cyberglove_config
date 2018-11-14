@@ -18,6 +18,7 @@ The file cyberglove.cal should then be edited, inserting the new raw values take
 ## Branch naming convention
 
 There are 2 CyberGloves. Glove A has a large control box. Glove B has a small control box.
+For more information on CyberGloves, see [this Confluence page](https://shadowrobot.atlassian.net/wiki/spaces/SDSR/pages/314310900/The+Cyberglove)
 There are 3 main users of the CyberGlove. The CyberGlove configuration is glove and user's hand specific.
 Therefore, the following branches exist:
 
