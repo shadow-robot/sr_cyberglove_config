@@ -2,7 +2,7 @@
   <include file="$(find cyberglove_trajectory)/launch/cyberglove.launch">
     <arg name="serial_port" value="/dev/ttyUSB0" />
     <arg name="joint_prefix" value="rh_" />
-    <arg name="calibration" value="$(find sr_cyberglove_config)/calibrations/right_cyberglove.yaml"/>
+    <arg name="calibration" value="$(find sr_cyberglove_config)/calibrations/luke_new_tweaked.yaml"/>
     <arg name="mapping" value="$(find sr_cyberglove_config)/mappings/GloveToHandMappings_generic"/>
     <arg name="version" value="3" />
     <arg name="protocol" value="8bit" />
