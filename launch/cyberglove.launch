@@ -1,7 +1,7 @@
 <launch>
   <include file="$(find cyberglove_trajectory)/launch/cyberglove.launch">
     <arg name="serial_port" value="/dev/ttyUSB0" />
-    <arg name="hand_prefix" value="rh" />
+    <arg name="hand_prefix" value="rh_" />
     <arg name="calibration" value="$(find sr_cyberglove_config)/calibrations/right_cyberglove.yaml"/>
     <arg name="mapping" value="$(find sr_cyberglove_config)/mappings/GloveToHandMappings_generic"/>
     <arg name="version" value="2" />
